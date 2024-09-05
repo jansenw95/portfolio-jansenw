@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Jansen Wong"
+  text: "an MIT student's portfolio"
+  tagline: "my first 6.1040 project"
   actions:
     - theme: brand
       text: Template Repository
